@@ -3,6 +3,17 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Csv files
+*.csv
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
 # C extensions
 *.so
 
